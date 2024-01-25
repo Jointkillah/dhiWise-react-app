@@ -31,7 +31,7 @@ const HomepagePage = () => {
               ,{" "}
             </span>
             <span className="text-black-900 font-newsreader font-normal italic">
-              purveyors
+              surveyors
             </span>
             <span className="text-black-900 font-newsreader font-normal">
               , and{" "}
