@@ -19,7 +19,7 @@ const HomepagePage = () => {
           />
           <Text
             className="leading-[120.00%] mx-auto sm:p-5 pl-2.5 sm:pl-5 pr-5 py-2.5 sm:py-5 relative right-[50px] md:text-5xl text-[64px] text-black-900 text-center tracking-[-1.28px] w-[71%] sm:w-full"
-            size="txtNewsreaderRegular64" style={{padding: "30px", margin-right: "auto", margin-left:"auto"}}
+            size="txtNewsreaderRegular64"
           >
             <span className="text-black-900 font-newsreader font-normal">
               We’re{" "}
